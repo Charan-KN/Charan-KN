@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charan-KN
-- 👀 I’m interested in ...web development
+- 👀 I’m interested in ...database, web development
 - 🌱 I’m currently learning ...CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...chkn20cs@cmrit.ac.in
